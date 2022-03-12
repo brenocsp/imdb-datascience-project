@@ -8,6 +8,6 @@ This project involves applying the knowledge from the Introduction to Data Scien
 
 ## Choosing the dataset
 
-The chosen dataset was found on the kaggle platform with more information, such as the budget of the films, which enrich the analyses, in addition to being contained in only one spreadsheet, which facilitates data processing. The dataset content contains data up to July 2017.
+The chosen dataset was found on the kaggle platform. The dataset content contains data up to July 2017.
 
 Source: https://www.kaggle.com/rounakbanik/the-movies-dataset
